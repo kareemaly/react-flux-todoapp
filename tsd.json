@@ -1,0 +1,72 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "flux/flux.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.all.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.aggregates.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.time.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.async-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.async.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.binding.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.time-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.coincidence.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.binding-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.coincidence-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.experimental.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.joinpatterns.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "react/react.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.testing.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.backpressure.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.virtualtime.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "react/react-dom.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx.backpressure-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "fe563dff3428bac1260d1794e2c2ecf8f097535a"
+    }
+  }
+}
