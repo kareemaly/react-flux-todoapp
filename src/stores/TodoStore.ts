@@ -31,7 +31,7 @@ class TodoStore {
 
 	// Components need to subscribe for todos changes.. so let's expose an observable that will emit todos when they change
 	// We know that whenever todos change we will set them (immutable) so the set method will be called. we can use that!
-	public registerActionHander() {
+	public registerActionHandler() {
 		Dispatcher.register((action: any) => {
 			switch(action.actionType) {
 				case TodosConstants.GET_ALL:
