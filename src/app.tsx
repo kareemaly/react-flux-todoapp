@@ -4,7 +4,7 @@ import AppComponent from "./components/AppComponent";
 import {todoStore} from "./stores/TodoStore";
 
 // Register Action Handler to activate this store
-todoStore.registerActionHander();
+todoStore.registerActionHandler();
 
 // Now whenever an action is called the todostore will be listening 
 
